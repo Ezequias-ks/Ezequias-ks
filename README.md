@@ -1,10 +1,12 @@
-## Hi there 👋
+## Olá Mundo,👋 Sou EZEQUIAS CERQUEIRA.
+Recem chegado no mundo da tecnologia. Cursando o 5º Semestre de Análise e Desenvolvimento de Sistema pela Unifecaf.
+<br>Minha meta é me especializar em Análise de dados.
 
 <a href="https://agenciaksdesign.com">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ezequias-ks&&bg_color=DEG,68328A,777B42,616794&hide_rank=false&rank_icon=github&hide_border=true&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&locale=pt-br" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ezequias-ks&&card_width=300&hide_title=true&custom_title=&bg_color=DEG,68328A,777B42,616794&hide_rank=false&rank_icon=github&hide_border=true&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&locale=pt-br"/>
 </a>
 <a href="https://instagram.com/ezequias.ccerqueira">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ezequias-ks&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ezequias-ks&layout=compact&langs_count=8&card_width=260&hide_title=true&custom_title=&bg_color=DEG,68328A,777B42,616794&hide_rank=false&rank_icon=github&hide_border=true&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&locale=pt-br"/>
 </a>
 
 <!--
