@@ -7,9 +7,9 @@
 <div align="center">
 Recem chegado no mundo da tecnologia.
 <br>
-Cursando o 5º Semestre de Análise e Desenvolvimento de Sistema pela Unifecaf.
+Formado em Análise e Desenvolvimento de Sistema pela Unifecaf.
 <br>
-Minha meta é me especializar em Análise de dados.
+Meta Engenharia de dados.
 <br>
 <br>
 <a href="https://agenciaksdesign.com" target="_blank" align="center"><img src="https://streak-stats.demolab.com?user=Ezequias-ks&theme=prussian&hide_border=true&card_width=510&card_height=200&locale=pt_BR&mode=weekly&background=54%2C68328A%2C777B42%2C616794" alt="Nosso Site" /></a>
@@ -23,11 +23,11 @@ Minha meta é me especializar em Análise de dados.
 
 <div align="center">
  
- 🔭 **UX\UI Designer** *freelancer*
+ 🔭 **UX\UI Designer | Dev Front-End | Solução web e mobile** *freelancer*
  
  🌱 **Aprendendo** análise de dados.
 
-💬 Te ajudo com **Conteúdos para digital e impresso, dicas e um bom bate papo. [Aqui!](https://api.whatsapp.com/send?phone=5511983900153&text=Ol%C3%A1%2C+quero+informa%C3%A7%C3%A3o+sobre...)**
+💬 Posso te ajudar com **Conteúdos para digital e impresso, dicas e um bom bate papo. [Aqui!](https://api.whatsapp.com/send?phone=5511983900153&text=Ol%C3%A1%2C+quero+informa%C3%A7%C3%A3o+sobre...)**
 
 ⚡ Gosto de **Viajar, Tocar violão e Desenhar**
 
