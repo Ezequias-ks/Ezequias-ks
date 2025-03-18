@@ -5,15 +5,15 @@
 <br>
 
 <div align="center">
-Recem chegado no mundo da tecnologia.
+Apaixonado por tecnologia.
 <br>
 Formado em Análise e Desenvolvimento de Sistema pela Unifecaf.
 <br>
 Meta Engenharia de dados.
 <br>
-<br>
+<!-- <br>
 <a href="https://agenciaksdesign.com" target="_blank" align="center"><img src="https://streak-stats.demolab.com?user=Ezequias-ks&theme=prussian&hide_border=true&card_width=510&card_height=200&locale=pt_BR&mode=weekly&background=54%2C68328A%2C777B42%2C616794" alt="Nosso Site" /></a>
-<br>
+<br> -->
 <br>
 <a href="https://agenciaksdesign.com" target="_blank" align="center">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ezequias-ks&&card_width=500&hide_title=false&custom_title=Minha+estátistica+no+GitHub&font_title=&size_tittle=15&bg_color=DEG,68328A,777B42,616794&hide_rank=false&rank_icon=github&hide_border=true&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&locale=pt-br"alt="saiba mais..."/>
@@ -27,9 +27,9 @@ Meta Engenharia de dados.
  
  🌱 **Aprendendo** análise de dados.
 
-💬 Posso te ajudar com **Conteúdos para digital e impresso, dicas e um bom bate papo. [Aqui!](https://api.whatsapp.com/send?phone=5511983900153&text=Ol%C3%A1%2C+quero+informa%C3%A7%C3%A3o+sobre...)**
+💬 Posso te ajudar com **Interfaces para web e mobile, artes para digital e impressos, dicas e um bom bate papo. [Aqui!](https://api.whatsapp.com/send?phone=5511983900153&text=Ol%C3%A1%2C+quero+informa%C3%A7%C3%A3o+sobre...)**
 
-⚡ Gosto de **Viajar, Tocar violão e Desenhar**
+⚡ Amo **Viajar, Tocar violão e Desenhar**
 
  </div>
  
@@ -50,8 +50,8 @@ Meta Engenharia de dados.
 <h2 align="center">⚒️ Linguagens - Frameworks - Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,c,mysql,php,windows,linux,ubuntu,git,github,react,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=vscode,sublime,androidstudio,eclipse,figma,ai,ps,nodejs,firebase,mongodb,unity" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,c,mysql,php,windows,linux,ubuntu,git,github" />
+    <img src="https://skillicons.dev/icons?i=vscode,sublime,androidstudio,eclipse,figma,ai,ps,laravel,react,bootstrap" /><br>
 </div>
 <br/>
 <hr/>
